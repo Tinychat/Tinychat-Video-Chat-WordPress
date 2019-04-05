@@ -21,7 +21,6 @@ This will automatically create the page and install the short code with link *do
 
 Simply use shortcode [tc_video_chat_page] in a page.
 
-
 == Screenshots ==
 
 * Mainchat of how it looks.
