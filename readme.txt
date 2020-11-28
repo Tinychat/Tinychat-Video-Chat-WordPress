@@ -3,17 +3,21 @@
 Contributors: ruddernationdesigns
 Donate link: https://www.paypal.me/RuddernationDesigns
 Tags: tinychat, video chat, wordpress chat, buddypress chat, wordpress video chat, buddypress video chat, chat, ruddernation
-Requires at least: 5.0+
-Tested up to: 5.4.2
-Stable tag: 1.6.0
+Requires at least: 2.0
+Tested up to: 5.5
+Stable tag: 1.6.5
 License: GNUv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 == Description ==
 
-You now have to register to use the chat, you can do that at https://tinychat.com , I apologise about that.
+Having tested this using Firefox, Edge, Chrome on Windows 10 & Linux it works on all except for Chrome on Windows 10!
+You can bypass this in Chrome by searching in the developer tools, locate the cookies, go to Tinychat.com, locate a cookie named "remember_random-number", and change the value for 'Same Site' to none and remove the tick for HttpOnly and add a tick in 'Secure',
+This may only be affecting some users.
 
-Tinychat have now removed YouTube, Hopefully this is temporary.
+You now have to register to use the chat, you can do that at <a href="https://tinychat.com" rel="nofollow ugc" >Tinychat</a> , I apologise about that.
+
+YouTube is back!
 
 Now updated to the new version of Tinychat using HTML5 WebRTC!
 TinyChat full screen video chat for WordPress/BuddyPress, 
@@ -131,7 +135,7 @@ License is now MIT so feel free to carry this plugin on, Just ask me to add you 
 
 = 1.3.3 =
 
-* A fix for the iframe for Chrome, Thanks to Matteo Mattei at studentrecruit.me for the fix!
+* A fix for the iframe for Chrome, Thanks to Matteo Mattei at <a href="studentrecruit.me"  rel="friend">studentrecruit</a> for the fix!
 
 = 1.3.4 =
 
@@ -197,7 +201,7 @@ YouTube videos work when using any browser other than Google Chrome, recommend u
 
 = 1.5.7 =
 
-* You now have to register to use the chat, you can do that at https://tinychat.com , I apologise about that.
+* You now have to register to use the chat, you can do that at <a href="https://tinychat.com" rel="nofollow ugc"  >Tinychat</a> , I apologise about that.
 
 = 1.5.8 =
 
@@ -209,24 +213,14 @@ YouTube videos work when using any browser other than Google Chrome, recommend u
 
 == Social Sites ==
 
-* Tinychat - https://www.afcsh.org.uk
+* <a href="https://www.ruddernation.com"  rel="nofollow ugc">Developers Website</a>
 
-* Developers Website - https://www.ruddernation.com
+* <a href="https://profiles.wordpress.org/ruddernationdesigns"  rel="nofollow ugc">WordPress</a>
 
-* Facebook Page - https://www.facebook.com/rndtinychat
+* <a href="https://www.ezcapechat.cf/"  rel="nofollow ugc">Special thanks to Ezcape Chat Creators.</a>
 
-* GitHub - https://github.com/Ruddernation-Designs
-
-* WordPress - https://profiles.wordpress.org/ruddernationdesigns
-
-* Stack Overflow  - http://stackoverflow.com/users/5774880/ruddernation-designs
-
-* Special thanks to Tinychat - https://tinychat.com
-
-* Privacy Policy for Ruddernation Designs - https://www.ruddernation.com/privacy-policy/
-
-* Privacy Policy for Tinychat - https://tinychat.com/privacy.html
+* <a href="https://www.ruddernation.com/privacy-policy/" rel="nofollow ugc">Privacy Policy for Ruddernation Designs</a>
 
 == Contact Details ==
 
-* Email - support@ruddernation.com - Any issues then please contact me here.
+* <a href="mailto:support@ruddernation.com" rel="nofollow ugc">Email</a> - Any issues then please contact me here.
